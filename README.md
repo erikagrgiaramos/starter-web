@@ -1,9 +1,8 @@
-# Starter Web Repo
+##Intro
+gawa ng bago
 
-This repository is for showing how Git and GitHub work
+##Description
+check ko kung marunong ako
 
-## Purpose
-
-Sample website with plenty of files for demos
-
-##Deployment
+##Process
+tignan natin
