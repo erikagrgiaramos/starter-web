@@ -9,8 +9,10 @@ You have to give you heart to everything you do.
 In the process, never forget who helped you.
 
 ##Process
-tignan natin
-issue for request
+Know how to handle your time properly
+Study wisely
+Always backread
+Don't stop until the student becomes the master.
 
 
 erika.ramos@accenture.com 2021
