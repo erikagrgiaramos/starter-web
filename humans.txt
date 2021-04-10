@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Erika Ramos ASE erika.ramos@accenture.com
 
 # THANKS
 
