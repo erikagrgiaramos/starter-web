@@ -1,5 +1,6 @@
 # humanstxt.org/
 # The humans responsible & technology colophon
+humans vs robots
 
 # TEAM
 
@@ -14,4 +15,6 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+	homaaaaans
+	
     jQuery, Modernizr
