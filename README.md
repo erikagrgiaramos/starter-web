@@ -2,6 +2,9 @@
 Good morning! How are you today?
 Are you feeling good and healthy?
 Are you ready?
+Are you brave?
+Are you confident?
+
 
 
 ##Description
